@@ -1,1 +1,1 @@
-# EWHA_git
+# EWHA-git
